@@ -2,9 +2,9 @@
 ===============
 
 - 08/02/1992 Born
-- 1996-2004 Attended Dr. Plesmanschool
-- 2005-2006 Attended Amsterdams Lyceum (HAVO/VWO)
-- 2006-2009 Attended Sweelinck College (VMBO-T)
+- 1996-2003 Attended Dr. Plesmanschool
+- 2004-2005 Attended Amsterdams Lyceum (HAVO/VWO)
+- 2006-2008 Attended Sweelinck College (VMBO-T)
 - 09/2007-09/2011 Developer at Pit Group Intech bv
 - 2009-2011 Attended ROC Amsterdam (Applicatie Ontwikkelaar) 
 - 09/2009-11/2010 Developer at UsenetXL
