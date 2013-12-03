@@ -2,7 +2,7 @@
 ===============
 
 - 08/02/1992 Born
-- ~1968 Summer job
-- 03/1976 Built a computer
-- 01/04/1976 Started a company
-- 04/1976-2011 Whole bunch of interesting events
+- 09/2007-09/2011 Developer at Pit Group Intech bv
+- 09/2009-11/2010 Developer at UsenetXL
+- 09/2011-12/2012 Web Specialist Front-end at UPC Nederland
+- 12/2012-~ Frontend Developer at inSided
