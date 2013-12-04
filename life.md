@@ -2,12 +2,12 @@
 ===============
 
 - 08/02/1992 Born
-- 1996-2003 Attended Dr. Plesmanschool
-- 2004-2005 Attended Amsterdams Lyceum (HAVO/VWO)
-- 2006-2008 Attended Sweelinck College (VMBO-T)
-- 09/2007-09/2011 Developer at Pit Group Intech bv
-- 2009-2011 Attended ROC Amsterdam (Applicatie Ontwikkelaar) 
-- 09/2009-11/2010 Developer at UsenetXL
-- 09/2011-12/2012 Web Specialist Front-end at UPC Nederland
-- 03/10/2011-21/12/2012 Attended Audio Engineering at SAE Institute
-- 12/2012-~ Frontend Developer at inSided
+- 1996-2003 Attended Dr. Plesmanschool [school]
+- 2004-2005 Attended Amsterdams Lyceum (HAVO/VWO) [school]
+- 2006-2008 Attended Sweelinck College (VMBO-T) [school]
+- 09/2007-09/2011 Developer at Pit Group Intech bv [job]
+- 2009-2011 Attended ROC Amsterdam (Applicatie Ontwikkelaar) [school]
+- 09/2009-11/2010 Developer at UsenetXL [job]
+- 09/2011-12/2012 Web Specialist Front-end at UPC Nederland [job]
+- 03/10/2011-21/12/2012 Attended Audio Engineering at SAE Institute [school]
+- 12/2012-~ Frontend Developer at inSided [job]

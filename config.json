@@ -1,4 +1,4 @@
 {
-	"customStylesheetURL": null,
-	"yearLength": 120
+    "customStylesheetURL": "style.css",
+    "yearLength": 120
 }
