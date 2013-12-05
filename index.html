@@ -261,5 +261,13 @@ h1{
 	}
 
 	life.start();
+
+    var mousewheelevt = (/Firefox/i.test(navigator.userAgent)) ? 'DOMMouseScroll' : 'mousewheel';
+    document.addEventListener(mousewheelevt, function (e) {
+        e.returnValue = false;
+        e.preventDefault && e.preventDefault();
+        var delta = ('wheelDelta' in e) ? e.wheelDelta : -e.detail;
+        document.body.scrollLeft -= delta;
+    }, false);
 })();
 </script>
