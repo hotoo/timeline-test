@@ -1,4 +1,5 @@
 {
-    "customStylesheetURL": "style.css",
-    "yearLength": 120
+	"customStylesheetURL": "style.css",
+	"yearLength": 120,
+	"hideTags": true
 }
