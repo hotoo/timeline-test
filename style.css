@@ -20,10 +20,10 @@ a {
     border: 4px solid #000;
 }
 
-#life .event .time.school {
+#life .event.tag-school .time {
     border: 4px solid #1abc9c;
 }
 
-#life .event .time.job {
+#life .event.tag-job .time {
     border: 4px solid #3498db;
 }
