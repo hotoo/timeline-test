@@ -11,5 +11,5 @@
 - 09/2009-11/2010 Developer at UsenetXL #job
 - 09/2011-12/2012 Web Specialist Front-end at [UPC Nederland](http://upc.nl) #job
 - 03/10/2011-21/12/2012 Attended Audio Engineering at SAE Institute #school
-- 12/2012-16/03/2014~ Frontend Developer at [inSided](http://insided.nl) #job
+- 01/12/2012-16/03/2014 Frontend Developer at [inSided](http://insided.nl) #job
 - 17/03/2014-~ Frontend Developer at [Emark](http://emark.nl) #job
