@@ -13,3 +13,4 @@
 - 03/10/2011-21/12/2012 Attended Audio Engineering at SAE Institute #school
 - 01/12/2012-16/03/2014 Frontend Developer at [inSided](http://insided.nl) #job
 - 17/03/2014-~ Frontend Developer at [Emark](http://emark.nl) #job
+- 30/01/2015 Achieved global rank 10.000 on osu! #osu
